@@ -186,6 +186,10 @@ section.home {
     max-width: 350px;
 }
 
+.title p {
+    margin-bottom: 30px;
+}
+
 .services .service {
     /* padding: 30px; */
     background: #f4f4f4;
@@ -209,8 +213,6 @@ section.home {
     flex-wrap: wrap;
     justify-content: center;
     margin-top: 20px;
-    display: grid;
-    grid-template-columns: 1fr;
 }
 
 
